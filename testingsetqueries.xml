@@ -1,0 +1,78 @@
+<topics task="Testing Set Queries">
+  <topic number="4">
+    <disease>melanoma</disease>
+    <gene>BRAF (K601E)</gene>
+    <demographic>38-year-old male</demographic>
+  </topic>
+  <topic number="5">
+    <disease>melanoma</disease>
+    <gene>BRAF (V600E), PTEN loss of function</gene>
+    <demographic>57-year-old male</demographic>
+  </topic>
+  <topic number="18">
+    <disease>melanoma</disease>
+    <gene>tumor cells with >50% membranous PD-L1 expression</gene>
+    <demographic>48-year-old female</demographic>
+  </topic>
+  <topic number="21">
+    <disease>melanoma</disease>
+    <gene>extensive tumor infiltrating lymphocytes</gene>
+    <demographic>49-year-old male</demographic>
+  </topic>
+  <topic number="27">
+    <disease>medullary thyroid carcinoma</disease>  
+    <gene>RET</gene>
+    <demographic>45-year-old female</demographic>
+  </topic>
+  <topic number="32">
+    <disease>leukemia</disease>
+    <gene>ABL1</gene>
+    <demographic>4-year-old female</demographic>
+  </topic>
+  <topic number="37">
+    <disease>non-small cell carcinoma</disease>
+    <gene>MET</gene>
+    <demographic>68-year-old male</demographic>
+  </topic>
+  <topic number="42">
+    <disease>glioblastoma</disease>
+    <gene>CDK6</gene>
+    <demographic>84-year-old male</demographic>
+  </topic>
+  <topic number="3">
+    <disease>Meningioma</disease>
+    <gene>NF2 (K322), AKT1(E17K)</gene>
+    <demographic>45-year-old female</demographic>
+    <other>None</other>
+  </topic>
+  <topic number="15">
+    <disease>Cervical cancer</disease>
+    <gene>STK11</gene>
+    <demographic>26-year-old female</demographic>
+    <other>None</other>
+  </topic>
+  <topic number="21">
+    <disease>Lung adenocarcinoma</disease>
+    <gene>ALK Fusion</gene>
+    <demographic>64-year-old female</demographic>
+    <other>Emphysema</other>
+  </topic>
+  <topic number="24">
+    <disease>Lung cancer</disease>
+    <gene>NTRK1</gene>
+    <demographic>58-year-old female</demographic>
+    <other>Depression, Hypertension, Diabetes</other>
+  </topic>
+  <topic number="25">
+    <disease>Lung adenocarcinoma</disease>
+    <gene>MET Amplification</gene>
+    <demographic>48-year-old male</demographic>
+    <other>Emphysema</other>
+  </topic>
+  <topic number="27">
+    <disease>Pancreatic adenocarcinoma</disease>
+    <gene>KRAS, TP53</gene>
+    <demographic>49-year-old female</demographic>
+    <other>None</other>
+  </topic>
+</topics>

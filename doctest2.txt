@@ -1,0 +1,237 @@
+<QUERY qno='1'>
+<DOC>
+<DOCNO>10065107</DOCNO>
+<TEXT>
+We reported a 36-year-old woman with metastatic liposarcoma originating in the retroperitoneum, which responded well to adjuvant chemotherapy. The primary tumor was removed by surgery. Two months later, the patient developed metastasis to the brain, and to the lung four months later. Metastatic liposarcomas to the brain generally are extremely rare. The patient was treated with combination chemotherapy using cyclophosphamide, vincristine, adriamycin, and dacarbazine (CYVADIC). After she was examined, the former two drugs were alternated with vindesine and ifosfamide, and another regimen with cisplatin and etoposide was given after a three-week interval. As a result, both of the metastases totally disappeared. No recurrent lesion has been noted for two years. Although the role of chemotherapy for liposarcoma has not been well defined and little data support its use in an adjuvant setting, this combination chemotherapy seemed to be effective for advanced liposarcoma.
+</TEXT>
+<TITLE>[A case of metastatic liposarcoma originating in the retroperitoneum successfully treated with combination chemotherapy].</TITLE>
+<KEYWORDS>Adult,Antineoplastic Combined Chemotherapy Protocols,therapeutic use,Brain Neoplasms,drug therapy,secondary,Cyclophosphamide,administration & dosage,Dacarbazine,administration & dosage,Doxorubicin,administration & dosage,Drug Administration Schedule,Female,Humans,Liposarcoma,drug therapy,secondary,Lung Neoplasms,drug therapy,secondary,Remission Induction,Retroperitoneal Neoplasms,pathology,Vincristine,administration & dosage</KEYWORDS>
+<JOURNAL>Gan to kagaku ryoho. Cancer & chemotherapy</JOURNAL>
+<AUTHORS>K Kobayashi, F Komada, A Otsuji, M Watanabe, E Fujii, A Kasai, M Yasuda, N Yokoyama, M Nakanishi, H Onishi</AUTHORS>
+<PUBTYPES>Case Reports|English Abstract|Journal Article</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>1999</PUBDATE>
+<LANGUAGE>jpn</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>ASCO_176705-195</DOCNO>
+<TEXT>
+
+
+
+
+
+
+Background: Approximately 5-10% of colorectal cancer (CRC) is due to hereditary causes. Identification of an inherited cause may impact surgical and treatment decisions for CRC patients and may identify increased risks for other cancers that warrant increased screening and/or risk reduction measures. Men have testing for hereditary breast and ovarian cancer less often than women, even though these genes may also cause increased risk for cancer in men and men are as likely as women to carry mutations in these genes and pass them onto their children. We aimed to explore whether similar gender differences exist related to testing for hereditary CRC. Methods: We retrospectively reviewed clinical data and test results from consecutive CRC cases, who had a multi-gene panel with 13-49 genes at our laboratory, between March 2012 and June 2016. Statistical comparisons between males and females were conducted using Fishers exact test. Results: Of CRC cases (n = 7142), 61.1% were female and 12.8% were positive for mutation or likely pathogenic variant. Average age of CRC onset for men was 47.2, and for women was 49.5. Women with CRC before age 20 had the highest mutation rate (31.8%), but men were more likely to test positive than women overall (14.1% vs 12.0%, p = 1.1e-2). Mutations were most frequent in the same three genes for both men and women, but in different orders: MLH1, CHEK2, and MSH2 for males and CHEK2, MSH2, and MLH1 for females. The only genes with significant differences in mutation rates between men and women were MLH1 (3.2% vs 1.5%, p = 2.0e-6) and MSH6(1.7% vs 0.8%, p = 3.0e-3). Conclusions: Hereditary CRC is expected to affect men and women equally. In our cohort, however, the majority of individuals tested were women, while men were more likely to test positive. Possible explanations include smaller sample size and earlier age of onset in men, perceptions of referring clinicians, and different levels of interest in genetic counseling and testing between male and female patients. These data highlight an important opportunity for educating and identifying more men with hereditary CRC who may benefit from genetic information. Further studies are needed to confirm these results and explore reasons for the differences. 
+
+</TEXT>
+<TITLE>What about the guys? An assessment of gender differences in hereditary colorectal cancer testing.
+</TITLE>
+<JOURNAL>2017 Gastrointestinal Cancers Symposium
+</JOURNAL>
+</DOC>
+
+
+</QUERY><QUERY qno='2'>
+<DOC>
+<DOCNO>10048494</DOCNO>
+<TEXT>
+The mechanisms responsible for hypertension in NIDDM patients are only partially understood. Increased sensitivity to dietary salt intake and to vasoconstrictor hormones are among the mechanisms proposed. We have studied 19 hypertensive NIDDM patients 7 salt-sensitive and 12 salt-resistant while they were ingesting a diet with 20 mEq/day of Na+ for 9 days and while they were ingesting a diet containing 250 mEq/day of Na+ for 14 days. During the last 4 days of each dietary regimen, they received 60 mg/day of slow-release nifedipine. Blood pressure response to increasing doses of norepinephrine and angiotensin II was studied at the end of each of the four phases of the study. High salt intake increased blood pressure and decreased heart rate in these patients. High salt intake also increased the vascular response to norepinephrine but not to angiotensin II in NIDDM hypertensive subjects. Glomerular filtration rate and renal blood flow were not different during the low and high salt diets. There were no differences in the blood pressure response to norepinephrine or angiotensin II, nor in renal hemodynamic changes among salt-sensitive and salt-resistant NIDDM patients. Nifedipine decreased blood pressure equally in salt-sensitive and salt-resistant hypertensive patients and during the high and the low salt intake. Nifedipine increased renal blood flow, both in salt-sensitive and in salt-resistant individuals, but the differences did not reach statistical significance. Nifedipine decreased the blood pressure response to both norepinephrine and angiotensin II. The studies indicate that an increased reactivity to the pressor action of norepinephrine may contribute to the maintenance of hypertension in NIDDM hypertensive subjects and high salt intake may aggravate the pressor responsiveness to norepinephrine in these patients. Nifedipine is an effective antihypertensive drug in NIDDM patients and its action may be in part related to a decrease in pressor response to norepinephrine and angiotensin II.
+</TEXT>
+<TITLE>Dietary salt intake, blood pressure and the kidney in hypertensive patients with non-insulin dependent diabetes mellitus.</TITLE>
+<KEYWORDS>Angiotensin II,pharmacology,Antihypertensive Agents,pharmacology,Blood Pressure,drug effects,physiology,Diabetes Mellitus, Type 2,complications,Diet, Sodium-Restricted,Female,Glomerular Filtration Rate,Hemodynamics,drug effects,Humans,Hypertension,etiology,Kidney,physiopathology,Male,Middle Aged,Nifedipine,pharmacology,Norepinephrine,pharmacology,Renal Circulation,physiology,Sodium Chloride, Dietary,administration & dosage</KEYWORDS>
+<JOURNAL>Journal of nephrology</JOURNAL>
+<AUTHORS>V M Campese, A Wurgaft, M Safa, S Bianchi</AUTHORS>
+<PUBTYPES>Journal Article|Research Support, Non-U.S. Gov't|Research Support, U.S. Gov't, P.H.S.</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>1998</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10480505</DOCNO>
+<TEXT>
+To investigate the relationship between daily alcohol consumption and the risk of type 2 diabetes in a large Japanese cohort. We enrolled 6,362 Japanese men aged 35-61 years who did not have diabetes, impaired fasting glucose, hypertension, or liver cirrhosis at study entry. Type 2 diabetes was defined as a fasting plasma glucose (FPG) level  or =126 mg/dl or was diagnosed by a physician. Data on alcohol consumption were obtained from questionnaires. We confirmed 456 cases of type 2 diabetes during the 62,016 person-years of follow-up. The relationship between daily alcohol consumption and the risk of type 2 diabetes among lean men and among men with a higher BMI was paradoxical. Among lean men (BMI  or =22.0 kg/m2), heavy drinking was associated with an increased risk of type 2 diabetes. Men who consumed  or =50.1 ml/day of alcohol had a relative risk (RR) of 2.48 (95% CI 1.31-4.71) compared with nondrinkers after adjusting for age, BMI, regular physical exercise, parental history of diabetes, smoking habits, and FPG level. However, among men with a BMI  or =22.1 kg/m2, moderate drinking (29.1-50.0 ml/day) was associated with a decreased risk of type 2 diabetes. Daily moderate drinkers had a multiple adjusted RR of 0.58 (0.39-0.87) compared with nondrinkers. Among men with a BMI  or =22.1 kg/m2, moderate alcohol consumption was associated with a reduced risk of type 2 diabetes, but among lean men (BMI  or =22.0 kg/m2), heavy alcohol consumption was associated with an increased risk of type 2 diabetes.
+</TEXT>
+<TITLE>Daily alcohol consumption and the risk of type 2 diabetes in Japanese men: the Osaka Health Survey.</TITLE>
+<KEYWORDS>Adult,Alcohol Drinking,adverse effects,Blood Glucose,metabolism,Body Mass Index,Diabetes Mellitus, Type 2,chemically induced,diagnosis,Drug Administration Schedule,Humans,Japan,Male,Middle Aged,Risk Factors,Surveys and Questionnaires</KEYWORDS>
+<JOURNAL>Diabetes care</JOURNAL>
+<AUTHORS>K Tsumura, T Hayashi, C Suematsu, G Endo, S Fujii, K Okada</AUTHORS>
+<PUBTYPES>Journal Article</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>1999</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10523382</DOCNO>
+<TEXT>
+Elevated cytosolic free calcium (Ca(i)) and reciprocally reduced, extracellular ionized calcium (Ca-ion) levels are observed in both hypertension and non-insulin-dependent diabetes mellitus (NIDDM). Because the changes of vascular function and insulin sensitivity in these conditions resemble the changes associated with "normal" aging, we wondered to what extent similar alterations in calcium metabolism occur with aging per se in the absence of overt hypertension or diabetes. We therefore measured platelet Ca(i) levels by spectrofluorometry and serum Ca-ion levels in normotensive, nondiabetic, healthy, normal, elderly (65 years old) subjects, mean age +/-SEM, 72.2+/-1.5 years old (n=11); in healthy, normal, young (65 years old) adults, 46.1+/-2.3 years old (n=12); in 10 young adult hypertensives, 48.6+/-1.9 years old; and in 10 normotensive NIDDM subjects, 49.2+/-1.6 years old. Platelet Ca(i) levels were higher (104.5+/-4.9 versus 80.2+/-1.8 nmol/L, P0.01) and Ca-ion levels lower (1.212+/-0.010 versus 1.236+/-0.011 mmol/L, P0.05) in normal elderly compared with young control subjects, but normal elderly Ca(i) and Ca-ion levels were indistinguishable from those in hypertensive (Ca(i) 107.5+/-3.6 nmol/L, Ca-ion 1.210+/-0.009 mmol/L) and NIDDM (Ca(i) 110.7+/-4.7 nmol/L, Ca-ion 1.204+/-0.014 mmol/L) subjects. In normal subjects, significant correlations were found between platelet Ca(i) levels and age (r=0.655, P0.01) and between Ca(i) levels and systolic blood pressure (r=0.733, P0.001). We conclude that aging is associated with alterations of Ca(i) and Ca-ion levels resembling those changes present at any age in hypertension and type 2 diabetes. We hypothesize that these alterations of calcium metabolism underlie the predisposition to the alterations of blood pressure and insulin sensitivity characteristic of "normal" aging. The data also suggest that studies of the aging process should be limited to subjects with normal blood pressure and glucose tolerance.
+</TEXT>
+<TITLE>Effects of aging on serum ionized and cytosolic free calcium: relation to hypertension and diabetes.</TITLE>
+<KEYWORDS>Adolescent,Adult,Aged,Aging,blood,Blood Platelets,metabolism,Calcium,blood,Cytosol,metabolism,Diabetes Mellitus, Type 2,metabolism,physiopathology,Humans,Hypertension,metabolism,physiopathology,Middle Aged</KEYWORDS>
+<JOURNAL>Hypertension (Dallas, Tex. : 1979)</JOURNAL>
+<AUTHORS>M Barbagallo, L J Dominguez, G Licata, L M Resnick</AUTHORS>
+<PUBTYPES>Journal Article</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>1999</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10541830</DOCNO>
+<TEXT>
+The objectives of this clinical study using iodine-123 metaiodobenzylguanidine (MIBG) scintigraphy were (a) to evaluate cardiac sympathetic denervation in non-insulin-dependent diabetes mellitus (NIDDM) patients with and without hypertension and (b) to investigate the relation between cardiac sympathetic denervation and prognosis in NIDDM patients. We compared clinical characteristics and MIBG data [heart to mediastinum (H/M) ratio and % washout rate (WR)] in a control group and NIDDM patients with and without hypertension. MIBG scintigraphy was performed in 11 controls and 82 NIDDM patients without overt cardiovascular disease except for hypertension (systolic blood pressure /=140 and/or diastolic blood pressure /=90 mmHg). After MIBG examination, blood pressure was measured regularly in all NIDDM patients. There were significant differences between 65 normotensive and 17 hypertensive NIDDM patients with respect to age (55+/-11 vs 63+/-12 years, respectively, P0.05), prevalence of diabetic retinopathy (12% vs 35%, respectively, P0.05) and systolic blood pressure (120+/-12 vs 145+/-16 mmHg, respectively, P0.001). The H/M ratio in hypertensive NIDDM patients was significantly lower than in the control group (1. 81+/-0.29 vs 2.27+/-0.20, respectively, P0.01). During the follow-up period (18+/- 12 months), 17 NIDDM patients newly developed hypertension after MIBG examination. There were no significant differences in their clinical characteristics compared with persistently normotensive or hypertensive NIDDM patients. %WR in patients with new onset hypertension was significantly higher than in the control group (30.88%+/-16.87% vs 12.89%+/-11.94%, respectively, P0.05). Moreover, in these patients %WR correlated with duration from the date of MIBG scintigraphy to the onset of hypertension (r=-0.512, P0.05). Five NIDDM patients died during the follow-up period (four newly hypertensive patients and one normotensive patient). There were significant statistical differences between the control group and non-survivors in terms of age (54+/-11 vs 73+/-11 years, respectively, P0.01), H/M ratio (2. 27+/- 0.20 vs 1.64+/-0.36, respectively, P0.01) and %WR (12. 89%+/-11.94% vs 42.52%+/-22.39%, respectively, P0.01). In conclusion, cardiac sympathetic denervation using MIBG scintigraphy observed in hypertensive NIDDM patients, and was more profound in non-survivors. MIBG scintigraphy proved useful for the evaluation of NIDDM patients with new onset hypertension, and it was found that NIDDM patients with abnormalities on MIBG scintigraphy needed to be observe carefully.
+</TEXT>
+<TITLE>Use of iodine-123 metaiodobenzylguanidine scintigraphy to assess cardiac sympathetic denervation and the impact of hypertension in patients with non-insulin-dependent diabetes mellitus.</TITLE>
+<KEYWORDS>3-Iodobenzylguanidine,Adult,Aged,Aged, 80 and over,Autonomic Nervous System Diseases,diagnostic imaging,etiology,Blood Pressure,drug effects,physiology,Body Mass Index,Diabetes Mellitus, Type 2,complications,diagnostic imaging,Female,Follow-Up Studies,Heart,diagnostic imaging,innervation,Hemoglobin A,metabolism,Humans,Hypertension,diagnostic imaging,etiology,Male,Middle Aged,Prognosis,Radionuclide Imaging,Radiopharmaceuticals,Sympathetic Nervous System,diagnostic imaging</KEYWORDS>
+<JOURNAL>European journal of nuclear medicine</JOURNAL>
+<AUTHORS>K Tamura, K Utsunomiya, Y Nakatani, Y Saika, S Onishi, T Iwasaka</AUTHORS>
+<PUBTYPES>Clinical Trial|Journal Article</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>1999</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10609119</DOCNO>
+<TEXT>
+Maturity onset diabetes of the young is characterized by early onset diabetes inherited in an autosomal dominant pattern. Classic MODY occurs predominantly in Caucasians and presents before age 25, is nonketotic, and is generally not insulin-requiring. Less than 5% of cases of childhood diabetes in Caucasians are caused by MODY. ADM is a subtype of MODY that occurs in approximately 10% of African-Americans with youth onset diabetes. In contrast to MODY in Caucasians, ADM presents clinically as acute onset diabetes often associated with weight loss, ketosis, and even diabetic ketoacidosis. Approximately 50% of patients with ADM are obese. Therefore, based strictly on clinical grounds, at onset, ADM cannot be distinguished from type 1 diabetes. Months to years following diagnosis, a non-insulin-dependent clinical course develops in patients with ADM that is clearly different from type 1 diabetes. Mutations in five genes can cause MODY. These genes encode hepatocyte nuclear factor-4 alpha (HNF-4 alpha, MODY1), glucokinase (MODY2), hepatocyte nuclear factor-1 alpha (HNF-1 alpha, MODY3), insulin promoter factor-1 (IPF-1, MODY4), and hepatocyte nuclear factor-1 beta (HNF-1 beta, MODY5). These monogenic forms of MODY have been used as model systems to investigate the inheritance and pathophysiology of type 2 diabetes. Clinicians, should be able to diagnose MODY. Type 1 diabetes, the most common form of diabetes in Caucasians, is always insulin-requiring for control and survival, whereas patients with MODY do not usually require long-term insulin for survival. Diagnostic confusion can lead to inappropriate management and patient expectations. Primary care physicians must be alert to avoid therapeutic confusion when patients with ADM enter into the non-insulin-dependent stage. An approach to the diagnosis of childhood diabetes is offered in Table 4. The majority of youth onset diabetes remains type 1; however, the frequency of type 2 diabetes is rising in obese children and adolescents and especially in obese minority youth. The diagnosis of MODY can be made through a careful review of the patient's clinical course, severity of hyperglycemia, and family history. The identification of islet autoantibodies is confirmatory evidence of autoimmune (type 1) diabetes. Because testing for MODY mutations is expensive and is performed at a select number of research laboratories only, routine molecular genetic studies to search for the various MODY mutations should be limited to research investigations. In the future, the availability of gene chip technology may allow rapid screening of mitochondrial and MODY mutations.
+</TEXT>
+<TITLE>Monogenic diabetes mellitus in youth. The MODY syndromes.</TITLE>
+<KEYWORDS>Adolescent,Adult,Child,Child, Preschool,Diabetes Mellitus, Type 1,Diabetes Mellitus, Type 2,classification,genetics,therapy,Female,Humans,Insulin,genetics,Male,Mutation</KEYWORDS>
+<JOURNAL>Endocrinology and metabolism clinics of North America</JOURNAL>
+<AUTHORS>W E Winter, M Nakamura, D V House</AUTHORS>
+<PUBTYPES>Comparative Study|Journal Article|Review</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>1999</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10616863</DOCNO>
+<TEXT>
+To investigate the significance of reversed circadian blood pressure (BP) rhythm as a predictor for diabetic endstage renal failure, introduction of hemodialysis (HD) was determined as an end point in 325 noninsulin-dependent diabetes mellitus (NIDDM) subjects, in whom 24-h BPs had been monitored during their first admissions between 1988 and 1996. Circadian BP rhythm was analyzed by the COSINOR method, as previously reported. After exclusion of 68 dropout subjects, 257 were recruited for further analyses, in which 194 had normal circadian BP rhythms (N), and the remaining 63 had reversed rhythms (R). During this follow-up period, the numbers of HD-introduced subjects in N and R were 6 and 16, respectively, showing a higher prevalence in the latter (p  0.001, chi2 test). Follow-up periods were significantly shorter in HD-introduced diabetic subjects of N and R than those in HD-free subjects of each group. In baseline characteristics, there were no differences in age, gender, or serum creatinine between HD-free and HD-introduced subjects of N or R. With regard to microvascular complications, the degree of retinopathy and nephropathy in N and R tended to be more pronounced in HD-introduced subjects than in HD-free subjects. Further, mean levels of circadian mean BP rhythms in HD-introduced subjects of N or R were similarly high, compared with those in HD-free subjects of each group, irrespective of circadian BP pattern. Unadjusted HD-free times were estimated by the Kaplan-Meier method, with a significant difference noted between N and R (p  0.001; log-rank test). The Cox proportional-hazards model adjusted for circadian BP pattern, age, gender, blood pressure level, glycemic control, duration of diabetes, serum total protein, and serum creatinine demonstrated that circadian BP pattern, age, gender (female), blood pressure level (hypertension), and serum creatinine exhibited significant high relative risks. Thus, our data suggest that reversed circadian BP rhythm is an independent predictor of endstage renal failure in NIDDM subjects.
+</TEXT>
+<TITLE>Reversed circadian blood pressure rhythm independently predicts endstage renal failure in non-insulin-dependent diabetes mellitus subjects.</TITLE>
+<KEYWORDS>Adult,Aged,Blood Glucose,metabolism,Blood Pressure,Blood Proteins,analysis,Circadian Rhythm,Creatinine,blood,Diabetes Mellitus, Type 2,complications,Diabetic Angiopathies,physiopathology,Female,Humans,Kidney Failure, Chronic,etiology,physiopathology,therapy,Male,Middle Aged,Renal Dialysis</KEYWORDS>
+<JOURNAL>Journal of diabetes and its complications</JOURNAL>
+<AUTHORS>S Nakano, M Ogihara, C Tamura, M Kitazawa, M Nishizawa, T Kigoshi, K Uchida</AUTHORS>
+<PUBTYPES>Journal Article|Research Support, Non-U.S. Gov't</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>1999</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10648274</DOCNO>
+<TEXT>
+Carotenoids have numerous biological properties that may underpin a role for them as chemopreventive agents. However, except for beta-carotene, little is known about how dietary carotenoids are associated with common cancers, including colon cancer. The objective of this study was to evaluate associations between dietary alpha-carotene, beta-carotene, lycopene, lutein, zeaxanthin, and beta-cryptoxanthin and the risk of colon cancer. Data were collected from 1993 case subjects with first primary incident adenocarcinoma of the colon and from 2410 population-based control subjects. Dietary data were collected from a detailed diet-history questionnaire and nutrient values for dietary carotenoids were obtained from the US Department of Agriculture-Nutrition Coordinating Center carotenoid database (1998 updated version). Lutein was inversely associated with colon cancer in both men and women [odds ratio (OR) for upper quintile of intake relative to lowest quintile of intake: 0.83; 95% CI: 0.66, 1.04; P = 0.04 for linear trend]. The greatest inverse association was observed among subjects in whom colon cancer was diagnosed when they were young (OR: 0.66; 95% CI: 0.48, 0.92; P = 0.02 for linear trend) and among those with tumors located in the proximal segment of the colon (OR: 0.65; 95% CI: 0.51, 0.91; P  0.01 for linear trend). The associations with other carotenoids were unremarkable. The major dietary sources of lutein in subjects with colon cancer and in control subjects were spinach, broccoli, lettuce, tomatoes, oranges and orange juice, carrots, celery, and greens. These data suggest that incorporating these foods into the diet may help reduce the risk of developing colon cancer.
+</TEXT>
+<TITLE>Carotenoids and colon cancer.</TITLE>
+<KEYWORDS>Adenocarcinoma,etiology,prevention & control,Age Factors,Aged,Anticarcinogenic Agents,administration & dosage,Carotenoids,administration & dosage,Colonic Neoplasms,etiology,prevention & control,Cryptoxanthins,Diet,Diet Surveys,Humans,Lutein,administration & dosage,therapeutic use,Middle Aged,Phytotherapy,Risk Factors,Smoking,Utah,Vegetables,therapeutic use,Xanthophylls,Zeaxanthins,beta Carotene,administration & dosage,analogs & derivatives</KEYWORDS>
+<JOURNAL>The American journal of clinical nutrition</JOURNAL>
+<AUTHORS>M L Slattery, J Benson, K Curtin, K N Ma, D Schaeffer, J D Potter</AUTHORS>
+<PUBTYPES>Journal Article|Research Support, Non-U.S. Gov't|Research Support, U.S. Gov't, P.H.S.</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>2000</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10676663</DOCNO>
+<TEXT>
+A gene related to cell differentiation was identified by differential display as a candidate suppressor of metastases in colon cancer. This gene, with a full-length cDNA of 3 kb, is expressed in normal colon and primary colon cancer tissues and cell lines but not in their metastatic counterparts. A GenBank search found that it is identical to a recently cloned gene, differentiation-related gene-1 (Drg-1), isolated from differentiated HT-29 colon cancer cells. Stable transfection of the SW620 metastatic colon cancer cell line with Drg-1 cDNA induced morphological changes consistent with differentiation and up-regulated the expression of several colonic epithelial cell differentiation markers (alkaline phosphatase, carcinoembryonic antigen, and E-cadherin). Moreover, the expression of Drg-1 is controlled by several known cell differentiation reagents, such as ligands of peroxisome proliferator-activated receptor gamma (troglitazone and BRL46593) and of retinoid X receptor (LG268), and histone deacetylase inhibitors (trichostatin A, suberoylanilide hydroxamic acid, and tributyrin). A synergistic induction of Drg-1 expression was seen with the combination of tributyrin and a low dose of 5'-aza-2'-dexoycytidine (100 nM), an inhibitor of DNA methylation. Functional studies revealed that overexpression of Drg-1 in metastatic colon cancer cells reduced in vitro invasion through Matrigel and suppressed in vivo liver metastases in nude mice. We propose that Drg-1 suppresses colon cancer metastasis by inducing colon cancer cell differentiation and partially reversing the metastatic phenotype.
+</TEXT>
+<TITLE>Drg-1 as a differentiation-related, putative metastatic suppressor gene in human colon cancer.</TITLE>
+<KEYWORDS>Animals,Cell Cycle Proteins,Cell Differentiation,Colonic Neoplasms,genetics,pathology,DNA Methylation,Down-Regulation,Female,Gene Expression Regulation,Genes, Tumor Suppressor,Humans,Intracellular Signaling Peptides and Proteins,Mice,Mice, Nude,Neoplasm Invasiveness,Neoplasm Metastasis,Proteins,genetics,RNA, Messenger,analysis,Receptors, Cytoplasmic and Nuclear,physiology,Receptors, Retinoic Acid,physiology,Retinoid X Receptors,Transcription Factors,physiology,Tumor Cells, Cultured</KEYWORDS>
+<JOURNAL>Cancer research</JOURNAL>
+<AUTHORS>R J Guan, H L Ford, Y Fu, Y Li, L M Shaw, A B Pardee</AUTHORS>
+<PUBTYPES>Journal Article|Research Support, U.S. Gov't, P.H.S.</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>2000</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10720084</DOCNO>
+<TEXT>
+Increasing evidence suggests that defects in genes encoding transcription factors that are expressed in the pancreatic beta-cells may be important contributors to the genetic basis of type 2 diabetes mellitus. Maturity-onset diabetes of the young (MODY) now exists in five subtypes (MODY1-5), four of which are caused by mutations in transcription factors hepatocyte nuclear factor-4alpha (HNF-4alpha), HNF-1alpha, insulin promoter factor-1 (IPF-1), and HNF-1beta (MODY1, -3, -4, and -5). Recent evidence from the British population even suggested that IPF-1 may be a predisposing gene for type 2 diabetes. Thus, highlighting the potential role of this transcription factor in the genetic basis of Danish and Italian MODY as well as in Danish patients with late-onset type 2 diabetes mellitus, we have examined the human IPF-1 gene for mutations by single strand conformation polymorphism and heteroduplex analysis in 200 Danish patients with late-onset type 2 diabetes and in 44 Danish and Italian MODY patients. In the patients with late-onset type 2 diabetes we identified a noncoding G insertion/deletion polymorphism at nucleotide -108, a silent G54G, and a rare missense D76N variant. Moreover, a Danish MODY patient was carrier of an A140T variant. Neither the D76N nor the A140T segregated with diabetes, and their transcriptional activation of the human insulin promoter expressed in vitro was indistinguishable from that of the wild type (115 +/- 21% and 84 +/- 12% vs. 100%). We conclude that variants in IPF-1 are not a common cause of MODY or late-onset type 2 diabetes in the Caucasian population, and that in terms of insulin transcription both the N76 and the T140 mutations are likely to represent functionally normal IPF-1 variants with no direct role in the pathogenesis of MODY or late-onset type 2 diabetes mellitus.
+</TEXT>
+<TITLE>Missense mutations in the human insulin promoter factor-1 gene and their relation to maturity-onset diabetes of the young and late-onset type 2 diabetes mellitus in caucasians.</TITLE>
+<KEYWORDS>3T3 Cells,Adult,Age of Onset,Aged,Aged, 80 and over,Animals,DNA,genetics,DNA Mutational Analysis,Denmark,Diabetes Mellitus, Type 2,genetics,European Continental Ancestry Group,Female,Heterozygote,Homeodomain Proteins,Humans,Male,Mice,Middle Aged,Mutagenesis,Mutation, Missense,genetics,Polymorphism, Single-Stranded Conformational,Trans-Activators,genetics,Transcriptional Activation,genetics</KEYWORDS>
+<JOURNAL>The Journal of clinical endocrinology and metabolism</JOURNAL>
+<AUTHORS>L Hansen, S Urioste, H V Petersen, J N Jensen, H Eiberg, F Barbetti, P Serup, T Hansen, O Pedersen</AUTHORS>
+<PUBTYPES>Clinical Trial|Journal Article|Research Support, Non-U.S. Gov't</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>2000</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>10789575</DOCNO>
+<TEXT>
+The use of laparoscopic surgery to treat colon cancer has been well studied; however, the specific use of laparoscopic colectomy for Dukes A colon cancer has not been evaluated. The data of laparoscopic colectomy were compared with those of conventional open colectomy, and the surgical results of patients who underwent surgery for Dukes A colon cancer were evaluated. Between November 1993 and October 1997, 20 patients underwent laparoscopic colectomy for Dukes A colon cancer. Operation time, blood loss, first passage of flatus, day of resumption of oral intake, length of hospital stay after surgery, and number of dissected lymph nodes were compared between 20 patients who underwent laparoscopic colectomy and 23 patients who underwent conventional open colectomy for Dukes A colon cancer. In patients with laparoscopic colectomy, when compared with those with conventional open colectomy, mean blood loss was less (103 g vs. 318 g), flatus returned more quickly (3.5 days vs. 4.2 days), oral intake resumed earlier (3.7 days vs. 4.7 days), and postoperative hospital stay was shorter (16.4 days vs. 24.6 days). The mean number of dissected lymph nodes was not different between the two groups (9.2 vs. 9.2 for D2 dissection). No patient had port-site metastasis or recurrence during a follow-up period from 13 to 60 months (median, 38 months). Review of the literature and the authors' findings indicated that none of the 142 reported patients had port-site metastasis after laparoscopic colectomy for Dukes A colon cancer. The results indicate that laparoscopic colectomy is safe and useful when applied to patients with Dukes A colon cancer and performed carefully by trained surgeons.
+</TEXT>
+<TITLE>Laparoscopic colectomy for Dukes A colon cancer.</TITLE>
+<KEYWORDS>Adult,Aged,Aged, 80 and over,Blood Loss, Surgical,Colectomy,methods,Colonic Neoplasms,pathology,surgery,Feasibility Studies,Female,Humans,Laparoscopy,Male,Middle Aged</KEYWORDS>
+<JOURNAL>Surgical laparoscopy, endoscopy & percutaneous techniques</JOURNAL>
+<AUTHORS>K Kakisako, K Sato, Y Adachi, N Shiraishi, M Miyahara, S Kitano</AUTHORS>
+<PUBTYPES>Journal Article</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>2000</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+
+</QUERY><QUERY qno='3'>
+<DOC>
+<DOCNO>16818172</DOCNO>
+<TEXT>
+Neurofibromatosis types 1 and 2 (NF1 and NF2) are autosomal dominant phakomatoses. The NF1 and NF2 genes encode for neurofibromin and merlin, respectively. These 2 functionally unrelated proteins both act as tumor suppressor genes, possibly through modulation of the RAS/RAC oncogenic pathways. Improved understanding of the mechanisms by which these tumor suppressors act may allow for medical therapies for neurofibromatosis and may offer insights for cancer therapeutics.
+</TEXT>
+<TITLE>The genetic and molecular pathogenesis of NF1 and NF2.</TITLE>
+<KEYWORDS>Animals,Genes, Tumor Suppressor,physiology,Humans,Neurofibromatosis 1,genetics,Neurofibromatosis 2,genetics,Neurofibromin 1,genetics,Neurofibromin 2,genetics</KEYWORDS>
+<JOURNAL>Seminars in pediatric neurology</JOURNAL>
+<AUTHORS>Kaleb H Yohay</AUTHORS>
+<PUBTYPES>Journal Article|Review</PUBTYPES>
+<COMMENTS>NA</COMMENTS>
+<PUBDATE>2006</PUBDATE>
+<LANGUAGE>eng</LANGUAGE>
+</DOC>
+
+<DOC>
+<DOCNO>AACR_2013-37</DOCNO>
+<TEXT>
+
+
+
+
+Background: Integration of genotype-based stratification into the lung cancer clinic is essential to implement the personalized medicine for patients with lung adenocarcinoma. Thus we have developed a multiplexed tumor genotyping panel for detecting somatic mutations relevant to molecular targeted therapies for lung cancer. The mutation profile data are communicated to clinicians to assign patients to appropriate therapy and/or clinical trials.Methods: Multiplexed tumor genotyping panel was developed to assess 23 mutations in 9 genes (EGFR, KRAS, BRAF, PIK3CA, NRAS, MEK1, AKT1, PTEN and HER2), 5 genes amplifications (EGFR, MET, PIK3CA, FGFR1 and FGFR2), and 5 fusion genes (EML4-ALK, CD74-ROS1, SLC34A2-ROS1, KIF5B-RET and CCDC6-RET) using pyrosequencing plus capillary electrophoresis, qRT-PCR, and multiplex RT-PCR, respectively. A written informed consent was obtained upfront from all patients enrolled into this study. Surgically resected tissues, tumor biopsies, pleural effusions and/or pericardial effusions from 280 patients were collected between July 2011 and July 2012 and used for tumor genotyping.Results: Somatic mutations were detected in 52.9% (148/280) of all patients. The most common mutation detected in this study was EGFR mutation (35.4%, 99) followed by KRAS mutation (10.4%, 29). EGFR L858R (52.5%) and KRAS G12C (44.8%) was the most frequent among EGFR and KRAS mutations, respectively. Other detected mutations were PIK3CA mutation (2.5%), PIK3CA amplification (2.5%), EGFR amplification (2.5%), MET amplification (2.1%), EML4-ALK fusion gene (1.4%), BRAF mutation (1.1%), NRAS mutation (1.1%), HER2 mutation (1.1%), MEK1 mutation (0.7%), AKT1 mutation (0.7%), KIF5B-RET fusion gene (0.4%), CD74-ROS1 fusion gene (0.4%) and FGFR1 amplification (0.4%). EGFR tyrosine kinase inhibitor (EGFR-TKI) was administered to 71.9% (41/57) of previously untreated patients who harbor EGFR activating mutations. Among those treated with EGFR-TKIs, simultaneous mutations in other genes with EGFR mutations were detected in 21.9% (9/41). Response rate of EGFR-TKIs in patients with simultaneous mutations (44.4%) was lower than that in patients with EGFR mutation alone (68.8%), suggesting that additional mutations may play some role in evading oncogenic signaling blockade. EGFR mutations were detected less frequently in smokers than in never-smokers (25.1% vs 60.5%, p<0.0001). Meanwhile, KRAS mutations were detected more frequently in smokers than in never-smokers (13.6% vs 2.5%, p=0.0043), which is consistent with previous reports. The majority of patients with never-smoking history harbored targetable somatic mutations compared to those with smoking history (71.6% vs 45.2%, p<0.0001).Conclusions: We have established the multiplexed tumor genotyping panel and this should be incorporated into lung cancer clinical practice to facilitate personalized cancer medicine.
+
+</TEXT>
+<TITLE>Multiplexed mutational profiling of Japanese lung adenocarcinoma patients for personalized cancer therapy.
+</TITLE>
+<JOURNAL>2013 AACR Annual Meeting
+</JOURNAL>
+</DOC>
+
+<DOC>
+<DOCNO>AACR_2014-1186</DOCNO>
+<TEXT>
+
+
+
+
+Introduction: Patients with breast cancer who do not respond to standard systemic therapy have a poor prognosis. There is a pressing need to develop in vivo models of breast cancer to test novel therapeutics. Directly implanting tumors into immunodeficient mice may more accurately recapitulate human tumor characteristics compared to cell line xenografts. We tested the feasibility of generating breast cancer xenografts (BCXs) and the effect of serial passage on tumor characteristics.Methods: Tumors from 48 patients with breast cancer were implanted. Patient tumors and BCXs were characterized with short tandem repeat DNA fingerprinting, and a series of BCXs were characterized with next generation sequencing, molecular inversion probe arrays and reverse phase protein arrays. Results: BCXs were established in 15 (31%) of 48 patients and 13 have been serially passaged. BCX engraftment was higher in patients with triple negative compared to ER or PR+ breast cancer (11 of 18, 61% vs. 4 of 30, 13%, p=0.001), and in patients who received neoadjuvant chemotherapy (13 of 25, 52% vs. 2 of 23, 9%, p=0.002). 7 patients developed metastases after surgery; in 5, BCXs developed before distant relapse. Compared to patient tumors, BCXs demonstrated genomic instability. Although mutation status, copy numbers and proteomic profiles were often maintained, an activating PIK3CA mutation was acquired in one BCX lineage and loss of PTEN in another. Proteomics demonstrated activation in PI3K/mTOR signaling in BCXs compared with patient tumors. Notably, 2 of 48 models demonstrated a transformation to induce mouse tumors.Conclusions: BCXs can be established prior to relapse from breast cancer, especially in patients with poor response to neoadjuvant chemotherapy. Although molecular profiles of BCX are mostly similar to the patient tumor that was implanted, differences such as aberrations in PI3K signaling can occur. Future studies will determine whether molecular evolution in BCXs reflect that seen upon progression/relapse and the potential of in vivo models for individualization of treatment.
+
+</TEXT>
+<TITLE>Patient-derived breast cancer xenografts demonstrate molecular evolution in the phosphatidylinositol 3-kinase pathway upon engraftment
+</TITLE>
+<JOURNAL>2014 AACR Annual Meeting
+</JOURNAL>
+</DOC>
+
+
+</QUERY>

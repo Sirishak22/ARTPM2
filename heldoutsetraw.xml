@@ -1,0 +1,44 @@
+<topics task="2018 and 2017 TREC Precision Medicine Held Out Set">
+  <topic number="2">
+    <disease>melanoma</disease>
+    <gene>BRAF (V600K)</gene>
+    <demographic>54-year-old male</demographic>
+  </topic>
+  <topic number="8">
+    <disease>melanoma</disease>
+    <gene>NRAS (Q61R)</gene>
+    <demographic>63-year-old female</demographic>
+  </topic>
+  <topic number="16">
+    <disease>melanoma</disease>
+    <gene>NTRK1 rearrangement</gene>
+    <demographic>60-year-old male</demographic>
+  </topic>
+  <topic number="28">
+    <disease>neuroblastoma</disease>
+    <gene>ALK</gene>
+    <demographic>4-year-old female</demographic>
+  </topic>
+  <topic number="33">
+    <disease>gastric cancer</disease>
+    <gene>EGFR</gene>
+    <demographic>60-year-old female</demographic>
+  </topic>
+  <topic number="34">
+    <disease>sarcoma</disease>
+    <gene>MDM2</gene>
+    <demographic>78-year-old female</demographic>
+  </topic>
+  <topic number="62">
+    <disease>Colon cancer</disease>
+    <gene>BRAF (V600E)</gene>
+    <demographic>35-year-old male</demographic>
+    <other>None</other>
+  </topic>
+  <topic number="78">
+    <disease>Pancreatic ductal adenocarcinoma</disease>
+    <gene>ERBB3</gene>
+    <demographic>73-year-old female</demographic>
+    <other>Whipple, FNA</other>
+  </topic>
+</topics>
